@@ -1,4 +1,4 @@
-# Flutter projecting integrating Rest API on postman
+# Flutter project integrating Rest API on postman
 
 A new Flutter project.
 
