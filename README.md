@@ -1,4 +1,4 @@
-# cstechassignment
+# Flutter projecting integrating Rest API on postman
 
 A new Flutter project.
 
